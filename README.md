@@ -19,7 +19,7 @@
 
 ## Support
 
-  Please [open an issue](https://github.com/lovescott/spark-simple-superhero-graph.git/issues/new) for support.
+  Please [open an issue](https://github.com/lovescott/spark-simple-superhero-graph/issues/new) for support.
 
 ## Contributing
 
